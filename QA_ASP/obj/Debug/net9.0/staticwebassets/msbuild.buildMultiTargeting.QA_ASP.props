@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\QA_ASP.props" />
+</Project>
